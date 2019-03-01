@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SoftwareEngineering2</string>
+
+    <string name="main_textview1">1) Relative Layout</string>
+    <string name="main_textview2">2) Table Layout</string>
+    <string name="main_textview3">3) Relative Layout</string>
+    <string name="main_button_view">View</string>
+
+    <string name="layout1_button1">Button 1</string>
+    <string name="layout1_button2">Button 2</string>
+    <string name="layout1_button3">Button 3</string>
+    <string name="layout1_button4">Button 4</string>
+    <string name="layout1_button5">Button 5</string>
+
+    <string name="layout2_button1">Color 1</string>
+    <string name="layout2_button2">Color 2</string>
+    <string name="layout2_button3">Color 3</string>
+    <string name="layout2_button4">Clear</string>
+
+    <string name="layout3_textview1">Nome:</string>
+    <string name="layout3_textview2">Avisos por:</string>
+    <string name="layout3_edittext1">Nome</string>
+    <string name="layout3_checkbox1">Email</string>
+    <string name="layout3_checkbox2">Telefone</string>
+</resources>
